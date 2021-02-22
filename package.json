@@ -1,0 +1,24 @@
+{
+  "name": "mpp-commands-v1",
+  "version": "1.0",
+  "description": "idk",
+  "main": "index.js",
+  "dependencies": {
+    "https-proxy-agent": "^5.0.0",
+    "socks-proxy-agent": "^5.0.0",
+    "ws": "^7.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultiPlayerPiano/mpp-commands-v1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MultiPlayerPiano/mpp-commands-v1/issues"
+  },
+  "homepage": "https://github.com/MultiPlayerPiano/mpp-commands-v1#readme"
+}
