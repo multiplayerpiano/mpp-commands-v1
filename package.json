@@ -2,7 +2,7 @@
   "name": "mpp-commands-v1",
   "version": "1.0",
   "description": "idk",
-  "main": "index.js",
+  "main": "Lest.js",
   "dependencies": {
     "https-proxy-agent": "^5.0.0",
     "socks-proxy-agent": "^5.0.0",
