@@ -19,7 +19,7 @@ const config = {
   }
 };
 
-const Lest   = require("@multiplayerpiano/mpp-commands-v1")
+const Lest   = require("mpp-commands-v1")
     , cf     = new Lest(config)
     , client = cf.client;
 
