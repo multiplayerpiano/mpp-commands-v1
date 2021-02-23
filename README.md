@@ -19,7 +19,7 @@ const config = {
   }
 };
 
-const Lest   = require("@Zel9278/lest-mpp")
+const Lest   = require("@MultiPlayerPiano/lest-mpp")
     , cf     = new Lest(config)
     , client = cf.client;
 
