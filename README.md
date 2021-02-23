@@ -6,6 +6,10 @@ idk more description :p
 ## install
 `npm install git+https://github.com/MultiPlayerPiano/mpp-commands-v1.git`
 
+or
+
+`npm install mpp-commands-v1.git`
+
 ## how to
 
 ```javascript
