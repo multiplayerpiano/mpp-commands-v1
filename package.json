@@ -10,12 +10,13 @@
   },
   "devDependencies": {},
   "scripts": {
+    "test": "node ./test/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MultiPlayerPiano/mpp-commands-v1.git"
   },
-  "author": "",
+  "author": "Zel9278",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MultiPlayerPiano/mpp-commands-v1/issues"
